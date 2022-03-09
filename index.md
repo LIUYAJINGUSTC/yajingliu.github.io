@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/LIUYAJINGUSTC/yajingliu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Yajing Liu received the B.S. degree in electronic engineering from University of Science and Technology of China, in 2016. She is currently working
+toward the Ph.D. degree in University of Science and Technology of China. Her research interests include transfer learning, domain generalization, and speech
+enhancement.
 
 ### Markdown
 
