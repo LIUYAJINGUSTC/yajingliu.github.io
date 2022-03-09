@@ -28,11 +28,3 @@ Papers Accpeted：
 
 7.Ya Li, Xinmei Tian, Mingming Gong, Yajing Liu, Tongliang Liu, Kun Zhang, Dacheng Tao. Deep domain generalization via conditional invariant adversarial networks[C]//European Conference on Computer Vision (ECCV). 2018: 624-639.
 
-Papers Submitted：
-
-1.Yajing Liu, Xiulian Peng, Zhiwei Xiong, Yan Lu. Coarse-with-Fine Condition for Speech Enhancement[J]//IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP), Submitted.
-
-2.Yuning Lu, Liangjian Wen, Jianzhuang Liu, Yajing Liu, Xinmei Tian. Self-Supervision Can Be a Good Few-Shot Learner[C]//European Conference on Computer Vision (ECCV). 2022: Submitted. 
-
-3.Jie Huang, Yajing Liu, Man Zhou, Keyu Yan, Jinghao Zhang, Yukun Huang, Feng Zhao, Zhiwei Xiong. Deep Fourier-based Exposure Correction Network with Spatial-Frequency Interaction[C]//European Conference on Computer Vision (ECCV). 2022: Submitted. 
-
