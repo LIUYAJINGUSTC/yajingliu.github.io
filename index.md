@@ -7,6 +7,7 @@ enhancement.
 ### Markdown
 
 1.Yajing Liu, Xinmei Tian, Ya Li, Zhiwei Xiong, Feng Wu. Compact feature learning for multi-domain image classification[C]//IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2019: 7193-7201.
+
 2.Yajing Liu,  Xiulian Peng, Zhiwei Xiong, Yan Lu. Phoneme-Based Distribution Regularization for Speech Enhancement[C]//IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2021: 726-730.
 3.Yajing Liu, Zhiwei Xiong, Ya Li, Xinmei Tian, Zheng-jun Zha. Domain generalization via encoding and resampling in a unified latent space[J]//IEEE Transactions on Multimedia (TMM), In Press.
 4.Yajing Liu, Zhiwei Xiong, Ya Li, Xinmei Tian, Zheng-jun Zha. Class-Interweaving Generator for Union Domain Generalization[J]//ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), Accept.
