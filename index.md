@@ -21,7 +21,7 @@ B.S. in Electrical Engineering, University of Science and Technology of China, S
 
 4.**Yajing Liu**, Zhiwei Xiong, Ya Li, Xinmei Tian, Zheng-jun Zha. Class-Interweaving Generator for Union Domain Generalization[J]//ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), Accept.
 
-5.Jie Huang*, **Yajing Liu*** (Co-first author), Man Zhou, Xueyang Fu, Yang Wang, Feng Zhao, Zhiwei Xiong. Exposure Normalization and Compensation for Multiple Exposure Correction[C]//IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2022: Accept.
+5.Jie Huang, **Yajing Liu** (Co-first author), Man Zhou, Xueyang Fu, Yang Wang, Feng Zhao, Zhiwei Xiong. Exposure Normalization and Compensation for Multiple Exposure Correction[C]//IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2022: Accept.
 
 6.Yuning Lu, Jianzhuang Liu, Yonggang Zhang, **Yajing Liu**, Xinmei Tian. Prompt Distribution Learning[C]// IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2022: Accept.
 
