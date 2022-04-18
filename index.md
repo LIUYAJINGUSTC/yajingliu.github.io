@@ -2,9 +2,7 @@
 
 ## About Me
 
-Yajing Liu received the B.S. degree in electronic engineering from University of Science and Technology of China, in 2016. She is currently working
-toward the Ph.D. degree in University of Science and Technology of China. Her research interests include transfer learning, domain generalization, and speech
-enhancement.
+Yajing Liu received the B.S. degree and Ph.D degree in electronic engineering from University of Science and Technology of China, in 2016 and 2021. She is currently working in JD.com. Her research interests include transfer learning, domain generalization, and speech enhancement.
 
 ### Education
 Ph.D. in Electrical Engineering, University of Science and Technology of China, September 2016 – November 2021.
